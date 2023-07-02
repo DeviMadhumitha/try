@@ -1,0 +1,25 @@
+<html>
+<head><title>CSE</title></head>
+<body>
+<table height="100%" width="100%">
+<tr>
+<td align="center"><img src="c.jpg" width="60" height="70"></td>
+<td align="center">Book<br>
+                   Author<br>
+                   Publications</td>
+<td>Rs.298</td>
+<td><button type="submit"><img src="addtocart.jpg" width="40" height="120"></button></td>
+</tr>
+
+<tr>
+<td align="center"><img src="java.jpg" width="60" height="70"></td>
+<td align="center">Book<br>
+                   Author<br>
+                   Publications</td>
+<td>Rs.298</td>
+<td><button type="submit"><img src="addtocart.jpg" width="40" height="120"></button></td>
+</tr>
+
+</table>
+</body>
+</html>
